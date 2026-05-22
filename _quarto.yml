@@ -1,0 +1,46 @@
+project:
+  type: website
+  resources:
+    - visitblue.gif
+
+website:
+  title: "Fashion Research"
+  site-url: https://fashionexample302.com
+  page-navigation: true
+  back-to-top-navigation: false
+  navbar:
+    background: primary
+    search: true
+    title: false
+    left:
+      - href: homepage/
+        text: Home
+      - href: about/about.qmd
+        text: About the project
+      - text: The research
+        menu: 
+        - href: Comparing text corpora/voyant.qmd
+          text: Comparing Corpora
+        - href: fabrics.qmd
+          text: Tabulating Textiles
+        - href: discussion.qmd
+          text: Discussion
+      - href: bibliography.qmd
+        text: Bibliography
+  
+
+  
+  page-footer:
+    background: light
+    center: >
+      <img src="/visitblue.gif" width="100" height="70">
+    right: "_Elsie Hood | HINQ302 | HASS301 | 2026_"
+
+
+format:
+  html:
+    theme: quartz
+    
+
+editor: visual
+

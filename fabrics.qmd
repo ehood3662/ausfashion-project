@@ -1,0 +1,87 @@
+---
+title: "**Fabrics**"
+---
+
+### **What are Australia's Favourite Fabrics?**
+
+#### **A retrospective on the second half of the 20th century**
+
+The following data was collected from a sample of 58 articles printed in newspapers and collected from the National Library of Australia’s digital archive, [Trove](https://trove.nla.gov.au/) (Trove, n.d.). My data collection largely fit into one of 6 "trends", including the Dior New Look, the Hippie movement, Mods, Punk, Power Dressing and Surfer (click [here](Comparing%20text%20corpora/voyant.qmd) to learn more). Each trend contained a text corpus of 8 to 10 contemporary articles on characteristic features. These articles were sources based on a wide range of characteristic search terms and modeled on Sikarskie's methods in her work, *Digital Research Methods in Fashion and Textile Studies* (2020). She particularly promoted the use of coding, meaning to categorise data for the purposes of analysis in research (Sikarskie, 2020). To better understand the data in these articles, I used a limited inductive coding method with the free and open source tagging system, [Taguette](https://app.taguette.org/) (Taguette, n.d).
+
+Inductive coding is an approach to qualitative text analysis that creates codes based on the data found in the sources; this is the opposite of deductive coding, that begins with a set of codes and aims to fit pieces of the data into these categories (*Deductive and Inductive Coding in Qualitative Research*, 2024). One limit of this is my aim to learn everything about *fabrics*, instead of everything about everything. This decision was made to allow enough space in my rapidly diminishing time frame to properly evaluate the data. Further, it aligns with my identified source and method based approach to this research project. As Sikarskie notes, coding in fashion research unavoidable; it is the best method for creating shorthands that quality and quantify the different aspects of fashion (2020). Even in modern online shopping, users expect to find appropriate and accurate results when they type in shorthands for their desired textile, silhouette, colours, and more - a process that relies on the ability to accurately code each garment (2020). Inductive coding in this project allowed me to uncover some interesting and surprising results, reinforcing the importance of coding in fashion research.
+
+**There are 236 individual mentions of fabrics, across 49 unique tags**. For the sake of brevity, only the top ten fabrics are included in Figure 7; see [f](../fabrics.qmd)[igure 10](Comparing%20text%20corpora/voyant.qmd) in Appendix A for full coded data.
+
+##### Figure 7
+
+*Frequency of unique fabric codes in the texts*
+
+| Fabric  | Frequency of Mentions | Natural or synthetic? |
+|---------|-----------------------|-----------------------|
+| Denim   | 31                    | Natural               |
+| Wool    | 27                    | Natural               |
+| Cotton  | 25                    | Natural               |
+| Linen   | 18                    | Natural               |
+| Silk    | 14                    | Natural               |
+| Knit    | 12                    | Ambiguous             |
+| Leather | 9                     | Natural               |
+| Velvet  | 8                     | Ambiguous             |
+| Crepe   | 8                     | Ambiguous             |
+| Chiffon | 7                     | Ambiguous             |
+
+Denim, wool, cotton, linen and silk are the top 5 fabrics mentioned throughout my data set. So what does this mean? To gain more understnding from these results, the next question I asked is *why are natural fabrics so frequently mentioned*? Initially, I thought that the sheer variety of synthetic and ambiguous materials named, contrasting with a perceived lack of variety in natural fabrics might have impacted the results. This was not the case!
+
+To answer this question, I used an axial coding approach. Axial coding, following on from my inductive coding, aims to connect my existing codes, or tags, into broader categories (*Open, Axial, and Selective Coding in Qualitative Research*, 2024). These broader categories are natural, synthetic, or ambiguous, demonstrated in Figure 7. Natural fabrics are made from fibres of organic origin, including plant or animal fibres, whereas synthetic fabrics are made primarily or solely from man-made inorganic fibres (David and Pailthorpe, 1999). Ambiguous fabrics is not an industry standard term. In this study, it refers to fabrics that are not defined by their use of either natural or synthetic fibres.
+
+Here are some clarifying examples:
+
+- Natural materials: Denim is a fabric made from cotton, which is a plant-based fibre sourced several species of the genus *Gossypium* (David and Pailthorp, 1999).
+
+- Synthetic materials: Nylon material is made from nylon fibre. As a linear polymer filament, it is a human-manufactured polydamide (David and Palithorp, 1999).
+
+- Ambiguous Materials: Chiffon is a plain-woven fabric that can be made from silk, nylon or polyester, and is categorised by its density, rather than type of fibre (Adolf, 1999).
+
+The next step was to count the number of fabrics that fall into each category, and the frequency of mentions in the data set.
+
+##### Figure 8
+
+*Broader categories of fabrics*
+
+|           | Amount of categories | Frequency of mentions |
+|-----------|----------------------|-----------------------|
+| Natural   | 18                   | 145                   |
+| Synthetic | 10                   | 16                    |
+| Ambiguous | 21                   | 75                    |
+
+As demonstrated in Figure 8, natural fabrics have the most unique mentions in the data set by a large margin! Further, synthetic fabrics were the *least* varied category, counter to my initial belief.
+
+The ambiguous category had the highest variety of fabrics, and the second highest frequency of individual mentions (Figure 8). Some ambiguous fabrics, like jersey, often use a blend of organic and inorganic materials (Adolf, 1999). Other fabrics, such as chiffon, will use either organic or inorganic fibres, but usually not both together Adolf, 1999). This category is therefore primarily defined by the *method,* by the desired *texture* or by *characteristic features* of each fabric. As the ambiguous category is not limited by the use of a particular fibre, it makes sense that this is the most varied category with the second highest frequency of mentions.
+
+This still leaves the question: *Why were natural fabrics so popular?* They had the highest frequency of individual mentions, and the second highest amount of individual fabrics (Figures 7 and 8). This puzzle inspired other questions: *Are natural fabrics over represented in one or other fashion trend? Are synthetic fabrics underrepresented?*
+
+As my data was collated into these 6 general "fashion trends", I wanted to see whether these instances of fabric mentions were exclusive to any one trend, or if they appeared more frequently because they were mentioned across multiple trends. Fortunately, the software I used to code my data allowed me to determine this quite easily.
+
+##### Figure 9
+
+*Examining cross-trend codes*
+
+| Fabric | Number of trends with mentions of this fabric | Frequency of mentions |
+|----|----|----|
+| Silk | **6** (appears in all 6 corpora) | 14 |
+| Wool | **5** (not mentioned in the Punk corpus) | 27 |
+| Cotton | **5** (not mentioned in the Punk corpus) | 25 |
+| Denim | **4** (not mentioned in the Dior New Look or Power Dressing corpora) | 31 |
+| Linen | **4** (not mentioned in the Hippie or Punk corpora) | 18 |
+| Leather | **4** (not mentioned in the Power Dressing or Surfer corpora) | 9 |
+| Velvet | **4** (not mentioned in the Hippie or Punk corpora) | 8 |
+| Chiffon | **4** (not mentioned in the Power Dressing or Punk corpora) | 7 |
+| Knit | **3** (not mentioned in the Dior New Look, Hippie, or Punk corpora) | 12 |
+| Jersey | **3** (not mentioned in the Mod, Punk, or Surfer corpora) | 5 |
+
+For the most part, a higher frequency of individual mentions is associated with mentions in a greater number of the text corpora, as demonstrated in Figure 9. This means that there are no fabrics that are completely over represented in any given fashion trend. Though they do not appear in Figure 9 for the sake of brevity, the fabrics with fewer individual mentions also followed this general trend, appearing in fewer text corpora ([Figure 10](Comparing%20text%20corpora/voyant.qmd)).
+
+Silk represents an unexpected, but subtle departure from this rule. Despite having only 14 individual mentions (Figure 7; Figure 9), Silk appears in every single one of the given fashion trends. Silk is identified by Karthik *et al*. as "the ultimate luxury raw material and fibre" for its wide variety of uses and positive perception in premium fashion (2015, p. 60). Its enduring association with luxury and wealth is a continuing theme; silk textiles have been associated with wealth for thousands of years. Further, the fabric rarely degrades, with some extant textiles being over 4000 years old. Hallett and Johnston (2022) similarly praise silk's incredibly long history and wide variety of applications. They note that despite innovations in synthetic fibres across the twentieth century, silk continues to hold status as a premium, versatile and luxury material in fashion. Other luxury hair fibres, such as cashmere and mohair, are known primarily for their properties of lightweight warmth (Franck, 2001). Silk is much lighter, and more ideally suited to Australia's warm climate. This combination of luxury, versatility, and lightness has likely contributed to its prevalence in Australian fashion articles and advertising.
+
+The popularity of other natural fabrics is more easily explainable. Though wool is heavier and warmer, it is highly associated with Australian farming and industry, introducing a nationalistic component to its prevalence in Australian apparel (Sneddon, 2012; Bellanta and Cramer, 2023). It is also generally perceived as a high quality fibre that is worth the perceived high expense (Bellanta and Cramer, 2023). One recent study on consumer apparel preferences in Australia identified that participants largely preferred natural to synthetic fibres (Tapsuwan *et al*, 2025). Though produced in 2025, this study likely reflects long held consumer trends as shown in Figures 7, 8 and 9.
+
+The data explored in Figures 7, 8, 9 and 10 reveal Australia's preference for natural fibres in clothing, as explored through newspaper articles and advertisements from the second half of the twentieth century. This high frequency of natural fabric mentions was not caused by a low variety of options, nor was is overrepresented at any given time or in any single trend. It reveals instead that natural fibres are highly valued for their qualities, and not dependent on type of garment or any specific fashion trend. To further explore this topic, an exploration of single fibre types, such as hair fibres like wool and silk, could be done. This would increase the depth of understanding, and examine the reasons why specific natural fibres are so prevalent in Australian textual fashion media.

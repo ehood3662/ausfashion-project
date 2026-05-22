@@ -1,0 +1,127 @@
+---
+title: "Using Voyant Tools"
+---
+
+**Visualising the differences in text corpora and uncovering my imperfect method of data collection.**
+
+On this page, you will find data extracted from [Voyant Tools](https://voyant-tools.org/), a free, online environment created to assist interpretive analyses in digital humanities projects (Tutorial: About \| Voyant Tools Help, n.d.). Data visualisation is an extremely vital step when undertaking both qualitative and quantitative analyses in fashion research, according to Sikarskie (2020). As such, this was the first step taken after having gathered my primary sources and fixing up the text.
+
+My initial uploads were of my 6 text corpora, segmented into 6 general fashion trends based on identifiable fashion cultures or subcultures identified as the Dior New Look, Hippie, Mod, Punk, Power Dressing, and Surfer. The sources were split into these 6 categories based on the most common features of each trend and/or any direct mention of trend name. Common features were determined by a large amount of preliminary research of fashion trends as they appear globally and in Australia.
+
+Here is a quick explanation of the common identifying features of each trend:
+
+- New Look: Modeled after Christian Dior's *New Look* haute couture line released in 1947. Associated with hyperfemininity and postwar excess. Small waistlines and large skirts, hourglass figure often achieved with corestry, rounded shoulders, excessive use of heavily structured fabric, hats and gloves (Maynard, 1995; Reddacliff, n.d.).
+
+- Mod: Associated with British band *The Beatles*. Long hair, jeans, t-shirts, miniskirts, occasionally army surplus clothing. (Oldham, 2024; Morris, 2024; Crane, 2000)
+
+- Hippie: Associated with anti-war rhetoric and counterculture. Loose silhouettes, often second-hand garments, appropriation of Native American cultural style elements. (Hannon, 2016)
+
+- Punk: Largely associated with punk music subculture. Often associated with London coutourier Vivienne Westwood. Fashion influenced largely by DIY elements: safety pins, hand sewing unique garments, leather, chains, spiky or otherwise unconventional hair (Sabin, 1999; Cartledge, 1999).
+
+- Power Dressing: Associated with the rise of women in the professional workforce. Tailored skirts, large shoulders, some accessorisation with bows. Combination of distinctly feminine and masculine styles (Entwhistle, 2020).
+
+- Surfer: Affected to some degree by California surf culture. Characterised by its casual, beachy look and relative inexpense. Flannel shirts, jeans, board shorts, t-shirts. Associated with brands such as Doc Martens, Billabong and Quicksilver (Reddacliff, n.d.; Craik, 2009).
+
+These segments were uploaded to Voyant Tools to visually compare the differences. Fortunately, Voyant tools offers the option to export an HTML snippet for embedding into other web pages, so I can show you the results below. To learn more about the features and function of each embedded tool, hover over the question mark in the top left corner of each box.
+
+##### Figure 1
+
+*Corpus Summary*
+
+```{=html}
+<!--    Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 600px; height: 340px;' src='https://voyant-tools.org/tool/Summary/?stopList=keywords-a48f179eaa92e116ed3ac484c5807e6c&corpus=0f21f8cde4b59fdb0529a451118f53d4'></iframe>
+```
+
+##### Figure 2
+
+*Cirrus*
+
+```{=html}
+<!--    Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 600px; height: 340px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-a48f179eaa92e116ed3ac484c5807e6c&visible=100&corpus=0f21f8cde4b59fdb0529a451118f53d4'></iframe>
+```
+
+While these visualisations (Figures 1 and 2) were quite interesting, they did not satisfyingly answer any questions about my data set. This is possibly because I uploaded the text documents that were separated into 6 different fashion trends. Any visualisation related to sequential trends or frequency were limited by this fact.
+
+To help mitigate this issue, Dr. Morrison suggested to upload the spreadsheet of metadata I had created earlier, and add a column for year of publication. The spreadsheet included all text and available publication details, so was ideally suited for this application. This allowed me to see the trends in key terms and collocates more effectively. For example, Figures 3 and 4 compare the relative frequencies of terms related to *skirt* and terms related to *trousers* from the earliest publication in 1947 to the latest in 1988.
+
+##### Figure 3
+
+*Skirt and dress term frequency*
+
+```{=html}
+<!--    Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 600px; height: 340px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-a48f179eaa92e116ed3ac484c5807e6c&query=gown*&query=gown&query=dress&query=hem*&query=hem&query=dresses*&query=maxi&query=mini&query=skir*&query=midi&corpus=f176228d46b1e3094cdea72addac1f0f'></iframe>
+```
+
+##### Figure 4
+
+*Trouser and pants term frequency*
+
+```{=html}
+<!--    Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 600px; height: 340px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-a48f179eaa92e116ed3ac484c5807e6c&query=shorts&query=jeans&query=slacks&query=trouser*&query=pant*&corpus=f176228d46b1e3094cdea72addac1f0f'></iframe>
+```
+
+While there are some notable outliers, this visualisation provides some insight into the prevalence of skirts and trousers across the second half of the 20th century in Australia. Skirts and similar apparel were most frequently mentioned prior to the mid 1980s (Figure 3). Trousers and related garments were most frequently mentioned after the mid 1980s, along with some relatively high frequency of mentions in the 1960s.
+
+This is also where the imperfections of my data collection begin to show.
+
+One identified issue in this data set (Figures 1, 2, 3, 4, 5 and 6) is the inconsistent representation of decades. For example, I collected six sources from 1978, but not a single source from the second half of the 1950s. There is a consistent spread of articles from each year in the latter half of the 1980s, but the earlier half is underrepresented. While Voyant Tools uses relative frequencies instead of counting each mention, undoubtedly this slightly skewed data impacts my ability to make assertions and satisfyingly answer questions.
+
+Does the increase in mentions of trousers indicate increasing gender neutrality of casual clothing? Is the spike of trouser-wearing across the 1960s because women's slacks were particularly fashionable, or because mod fashion in the 60s was a movement inclusive of men and women's clothes?
+
+The next step was to look at the context of these words, to see if there are any answers to be gained. Using the collocates function of Voyant Tools allowed me to see which terms are most likely to be used in conjunction with my defined search terms.
+
+##### Figure 5
+
+*Skirt and dress term collocates*
+
+<!--    Exported from Voyant Tools (voyant-tools.org). The iframe src attribute below uses a relative protocol to better function with both http and https sites, but if you're embedding this into a local web page (file protocol) you should add an explicit protocol (https if you're using voyant-tools.org, otherwise it depends on this server. Feel free to change the height and width values or other styling below: -->
+
+<iframe style="width: 450px; height: 250px;" src="https://voyant-tools.org/tool/CorpusCollocates/?stopList=keywords-a48f179eaa92e116ed3ac484c5807e6c&amp;context=15&amp;query=maxi&amp;query=midi*&amp;query=mini&amp;query=gown*&amp;query=hem*&amp;query=dress&amp;query=dresses*&amp;query=skir*&amp;corpus=f176228d46b1e3094cdea72addac1f0f">
+
+</iframe>
+
+##### Figure 6
+
+*Trouser and pants term collocates*
+
+```{=html}
+<!--    Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 450px; height: 250px;' src='https://voyant-tools.org/tool/CorpusCollocates/?stopList=keywords-a48f179eaa92e116ed3ac484c5807e6c&context=15&query=slacks*&query=shorts*&query=trouser*&query=pant*&query=jeans*&query=slacks&corpus=f176228d46b1e3094cdea72addac1f0f'></iframe>
+```
+
+As demonstrated in Figure 6, trousers are most likely to be mentioned alongside other garments such as shirts, suits and boots, while skirts are more often mentioned alongside clarifying words or more abstract concepts of fashion (Figure 5). Pleats, hemlines and waistlines were all of primary concern in these collocates.
+
+Figure 6 shows that the top collocate for jeans - shirt - is most frequently located in the early 1990's, and slightly less in the mid 1960's. The trouser-suit collocate pair is most frequently mentioned in the late 1960s (Figure 6). It is probable, then, that the increased prevalence of trouser-relates terms in the mid-1980's is related to the increasing gender neutrality and popularity of jeans in casual wear as explored by Pearson (2020). I initially considered the idea that the more formal tone of suits and shirts is could be due to the inclusion of formal-adjacent menswear in the *mod* fashion trend. However, as Pearson notes, popular styles of dress in the 1960s were much more unisex and casual than previous generations. She asserts that long hair and jeans, as well as flamboyant trouser suits for both men and women, became mainstays of popular fashion. This expression of gender-neutrality in fashion was a counter-response to the hyper-feminine and hyper-masculine trends of a decade earlier. The extravagantly feminine silhouettes adopted from Christian Dior's *New Look* were themselves a reaction to the previous gender-neutrality in clothing necessitated by women's entry into wartime production (Pearson, 2020; Maynard, 1995). In this way, fashion is a cyclical cultural phenomenon. It often rejects the ideas and motifs of previous iterations in favour of 'new' ideas, i.e. different combinations of ideas that have already been expressed throughout fashion history. To explore this phenomenon further, a study on a longer period of time through a narrower text-based fashion medium would be beneficial.
+
+Understanding and interpreting fashion data from text can be difficult, especially when so much of the language is visual. As argued by Sikarskie (2020), creating visual representations of fashion data is an extremely important step; it assists with understanding the primary aspects of any given fashion research subject, regardless of whether the analysis is qualitative or quantitative. While it has afforded insight into the trends of Australian fashion throughout the second half of the 20th century, deeper analysis is best understood alongside other research. This visual representation demonstrated that the declining popularity of skirts and similar garments is directly tied to the increased popularity of trousers and related garments. The most likely reason for this is the increasing gender-neutrality and popularity of casual fashion. The next step in this research project is to understand the impact of fabrics and fibres on the Australian clothing landscape.
+
+[Click here to learn more about fabric use in this data set.](../fabrics.qmd)

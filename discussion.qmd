@@ -1,0 +1,75 @@
+---
+title: "Discussing the process"
+---
+
+This project is unique. It represents a source based approach to research that is largely defined by the use of digital humanities methods. A regular project might have started with a single question. On this page, I discuss the unique opportunities and limitations of undertaking a final project while learning completely new content and methods. In previous pages, I discussed the limitations that my data collection method had upon my final results and analyses; this section will be dedicated to the process of undertaking this combined unit.
+
+[Data collection]
+
+[Digital Humanities Methods and Software]
+
+[Learning requirements of a combined unit]
+
+[Conclusion]
+
+#### Data collection
+
+My data collection was influenced by existing studies that take a digital humanities approach. As Takahashi et al. assert, everyday fashion trends are an important for allowing deeper insight into cultural and societal values (2021). Their investigation relied on non-fashion data, meaning a focus on text and image sources, rather than extant garments found in museums or haute couture collections (2021). I aimed to follow their example, though I used text instead of images. Other studies of fashion, such as Crane and Bovone (2006) approach fashion research solely from a sociological lens, aiming to learn what fashion can tell us about the society or culture in which any given trend exists. I aimed to take a balanced approach, creating a data set that could demonstrate key features in Australian fashion across the second half of the twentieth century; in doing so, this illuminates preferences and key features of fashion trends, highlighting how fashion is continually evolving.
+
+To fulfil this aim, I modeled the various approaches suggested in Sikarskie's *Digital Research Methods in Fashion and Textile Studies* (2020). Her work is greatly influential and incredibly comprehensive, suggesting and justifying a wide variety of digital humanities methods for collecting, visualising and analysing fashion media (2020). I used boolean search queries to find texts that were highly relevant to my study. In doing this, I gathered 58 total newspaper articles on Trove, which comprised my data set.
+
+#### Digital Humanities Methods and Software
+
+This project utilises a great variety of digital humanities methods. Prior to undertaking this combined unit, I had not even heard of most of the processes I have now used in my final project. Some processes, such as the use of [Zotero](https://www.zotero.org/) for source management, were familiar to me. Zotero allowed me to efficiently and effectively collate my primary data, as it automatically records useful metadata. Additionally, my data was sourced from the National Library of Australia's archive, [Trove](https://trove.nla.gov.au/), which uses its own text recognition software for converting scans to readable text. However, this text recognition is often imperfect and required manual correction of most texts.
+
+Other processes used in this project were previously unknown to me, but served incredibly useful for this digital humanities project. after having manually recording my texts and metadata in a spreadsheet, I used [Voyant Tools](https://voyant-tools.org/) for visualisation and corpora comparison. I later used [Taguette](https://app.taguette.org/) for my inductive coding method of analysis. It was greatly enjoyable and beneficial for my source-based approach to research. However, it was also slightly limiting in that i could not categorise my individual codes or sort them in any meaningful way. This step was completed with the use of Microsoft Excel.
+
+There are a few digital processes that I had identified in my project proposal that were excluded from the final project, largely for constrains of time and scope. Were the project much longer, or perhaps much smaller, I would have liked to learn more about geographic information systems (GIS) to better understand the geographies of Australian fashion, similar to Crewe's global exploration of fashion geographies (2020). Alternatively Sikarskie (2020) asserts that OpenStreetMap, an online tool for plotting geographic data, is better suited to fashion scholarship (Sikarskie, 2020; *OpenStreetMap*, n.d.). Her insight into large-scale image curation would also have been interesting to implement, especially as much of the language around fashion is based on recognisable visual features, such as silhouette, colour and pattern (Sikarskie, 2020). Despite my continual wish to learn as much as physically possible, I still feel satisfied with the breadth of learning that I have achieved over the course of this project.
+
+For presentation, I followed the advice of J. Drucker in her work, *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship* (2021). As my methods were varied, and included the use of various software and online tools, I wanted a way to display this work. I aimed to create a platform that supported my need to embed various displays, spreadsheets, and writing in a way that could be clearly segmented, and would be engaging. [WordPress](https://wordpress.com/) is an often recommended Content Management System (CMS) for the presentation of digital humanities projects (Drucker, 2021). However, I wanted a greater challenge, and greater control over my final product. As suggested by Dr Morrison, a static HTML website would be an appropriate and creative medium to present my work (Morrison, 2026; 2025). The process involved downloading [RStudio](https://www.r-project.org/) to create a project, and leaning heavily on both HINQ302 unit content (Morrison, 2025) and the free online tutorials from [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html) to learn how to create a website. The result is a unique personal website that I designed from the ground up that fulfils the requirements of both units and challenged me to learn completely new skills.
+
+There are many opportunities presented in this preliminary study for further research and investigation. In future, I would recommend to narrow the scope of the data, possibly by narrowing the studied time period or collecting media from a single long-running piece of fashion media. This could look like an examination of a single brand, such as L. Hackett's 'Diversity and democratization of Dior in Australia: Social factors in fashion modification in the 1940s-50s' (2019), or the prioritisation of a single fashion magazine, similar to the analysis in Cramer's 'Relaxed bodies and comfortable clothes: Reframing masculinity in post-war Australia' (2021). While my data was not inconclusive, the breadth and scope of digital humanities methods was greatly affected by my limited time.
+
+#### Learning requirements of a combined unit
+
+This projects aims to fulfil the requirements for two completely different subjects at UNE: HINQ302: *Researching the Past in the Digital Age* and HASS301: *Research and Professional Practice Project*. Being a combined unit, there are double the amount of unit learning outcomes to consider, which factored greatly into my final product. The learning outcomes are as follows:
+
+[**HASS301:**](https://www.une.edu.au/study/units/research-and-professional-practice-project-hass301)
+
+- apply disciplinary knowledge to define and plan a research topic or practical project in their area of specialisation;
+
+- apply relevant disciplinary methods to develop a topic or project;
+
+- research, evaluate and synthesise ideas and sources independently; and
+
+- organise and present ideas and knowledge coherently in written form and/or other appropriate mode of expression.
+
+(University of New England, 2026)
+
+[**HINQ302:**](https://www.une.edu.au/study/units/researching-the-past-in-the-digital-age-hinq302)
+
+- illustrate an understanding of foundational concepts, principles, and approaches to designing and conducting research in the ‘digital age’
+
+- demonstrate awareness and understanding of the challenges and opportunities created by digital technologies in researching, conserving, and interpreting the past;
+
+- evaluate approaches best suited to common types of historical research problems;
+
+- demonstrate the ability to create, analyse, visualise and critique digital data and to work with varied sources;
+
+- effectively transmit knowledge and understanding of the research process and outputs to others; and
+
+- reflect critically on the opportunities and challenges created by engaging with the digital humanities in researching, conserving, and interpreting the past.
+
+(University of New England, 2026)
+
+While these learning outcomes are not necessarily at odds with each other, they naturally lead to increased expectations, and impacted the methods of data collection, analysis, and presentation. My ability to "apply relevant disciplinary methods" in HASS301 (University of New England, 2026) was somewhat impacted by the fact that I was also learning completely new relevant disciplinary methods in HIN302. This presented opportunities for growth as well as challenges.
+
+The nature of this combined unit meant that I was not required to learn the full breadth of knowledge, processes and methods previously required in HINQ302. Instead, I was encouraged by my supervisor, Dr. Mick Morrison, to tailor the unit and learn primarily the content that would be relevant to my project. This meant that I have a deeper understanding and greater appreciation for all the digital humanities methods that I used in this project.
+
+Additionally, both of these units are uniquely positioned to afford me great control and creativity over my final product. This freedom of creativity greatly informed the tone of this project, as demonstrated by the visual aspects of GIFs and colouful backgrounds. Further, as I aimed to highlight the process as much as the results of this study, I have chosen to use first person pronouns, which are compatible with a more narrative presentation. This has the additional benefit of being more engaging to certain audiences than an academic paper. Despite this fun and creative tone, I still aimed to have effective academic analysis, which is reflected throughout my research.
+
+Further, there were no existing benchmarks with which I could compare my progress and final work to. Were I to solely write an essay, I could reasonably make assertions of its quality and effectiveness, given that success in my Bachelor of Historical Inquiry and Practice relies upon writing high quality academic essays. However, as I was encouraged to be creative with the process and presentation of my research, my benchmarks looked a little different. My self-evaluation was largely influenced by the amount of new content and methods I was able to learn and successfully implement. It was further influenced by regular check-ins with my supervisor. Dr. Morrison was the unit coordinator for HINQ302, so it was incredibly helpful to hear his insight into usual processes; his input has greatly shaped this learning process.
+
+#### Conclusion
+
+Over the course of this project,

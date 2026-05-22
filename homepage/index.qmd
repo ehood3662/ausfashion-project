@@ -1,0 +1,19 @@
+---
+title: "Using digital methods to research fashion history in Australia"
+---
+
+![](aw7.gif){fig-align="center"}
+
+"What would any man be - without his clothes? As soon as one stops and thinks over that proposition, one realizes that without his clothes a man would be nothing at all; that the clothes do not merely make the man, the clothes are the man; that without them he is a cipher, a vacancy, a nobody, a nothing."
+
+Twain, M. (1905). [The Czar’s Soliloquy.](https://www.jstor.org/stable/25105366) *The North American Review*, *180*(580), 321–326.
+
+click on the gifs below to learn more!
+
+|  |  |
+|:--:|----|
+| [![](images/clipboard-3190246959.gif)](../about/about.qmd) | A short overview of the project, as well as my workflow for the trimester |
+| [![](images/clipboard-4200146941.gif)](../Comparing%20text%20corpora/voyant.qmd) | The early stages of data analysis using Voyant Tools for visualisation |
+| [![](images/clipboard-1614846671.gif){width="119"}](../fabrics.qmd) | Research findings regarding trends in fabric and textiles |
+| [![](images/clipboard-3356169186.gif)](../discussion.qmd) | Discussing the entire process of this project and the results |
+| [![](images/clipboard-2654715144.gif)](../bibliography.qmd) | Full bibliography |
