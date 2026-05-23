@@ -1,0 +1,64 @@
+---
+title: "About the process"
+---
+
+## An introduction to the project
+
+This website was made to fulfill the requirements for a HASS301 project based on the content from HINQ302: *Researching the Past in the Digital Age* at the University of New England (UNE). HASS301: *Research and Professional Practice Project* is a unit that is needed to fulfil the requirements for the Bachelor of Historical Inquiry and Practice. Due to extant circumstances regarding subject availability and ability to graduate on time, HASS301 was combined with HINQ302: *Researching the Past in the Digital Age*. As such, the research approaches are based on the HINQ302 content from trimester one, 2025.
+
+This project demonstrates a source-based approach to research with the use of varied digital humanities techniques. I aim to emulate the feel of personal websites as well as highlight the various digital processes I've learnt and implemented throughout this trimester, so the conventional academic approach to excluding personal pronouns is ignored. This is done to present the process of my research, findings, and discussion in an engaging and interesting way. However, this project still aheres to academic standards of analysis and APA 7th edition referencing.
+
+![](line_star.gif){fig-align="center" width="650" height="23"}
+
+## **Workflow:**
+
+1.  Used a variety of software for preliminary learning, communication and project setup tasks
+
+    - *Learnt the content for HINQ302 using MyLearn, eResources, the Reading List and further digital sources of content.*
+
+    - *Created an ongoing journal for this process using Google Docs*
+
+    - *Created a locally hosted working directory of files and sources* 
+
+    - *Utilised digital tools such as Outlook and Zoom to communicate with project supervisor, Dr Mick Morrison*
+
+2.  Wrote a project proposal based on HINQ302 assessment 2a
+
+3.  Used Boolean search terms with tools such as Google Scholar and the UNE Library website to undertake preliminary and ongoing secondary research
+
+    - *Based on the Boolean Queries approach in Sikarskie's* Digital Research Methods in Fashion and Textile Studies*, 2020.*
+
+4.  Created a personal (unpublished) spreadsheet for key factors in different fashion eras. Factors include fabric, silhouette, designers, geographic influences, etc. 
+
+5.  Researched and applied various approaches to text and image curation
+
+6.  Researched and collated 58 total text sources from Trove using the Zotero application and Chrome extension
+
+    - *Learn more about the scholarship that influenced these search terms [here.](../Comparing%20text%20corpora/voyant.qmd)*
+
+    - *Manually fixed up errors in text (errors were not quite egregious enough to consider using text recognition software)*
+
+    - *Exported each collection (8-10 sources each) to .txt files*
+
+7.  Manually recorded source metadata and text using Microsoft Excel
+
+8.  Exported the spreadsheet of metadata to a .csv file and uploaded it to Voyant Tools for visualisation and corpus comparison
+
+9.  Tagged text corpus (.txt files from Zotero report) using Taguette - free, open source qualitative analysis tool 
+
+10. Exported highlights and codebook to .csv files and used Microsoft Excel tools for data extraction, analysis and visualisation
+
+    - *Used formulas in Excel to extract better information for analysis*
+    - *Examined and wrote appropriate analysis of findings.*
+
+11. Installed R and RStudio to learn the process of coding and creating a quarto website
+
+    - *Created and customised pages*
+
+    - *Wrote appropriate text for each page*
+
+12. Used UNE Madgwick Student AI to create a tailored AI assistant to work through coding issues.
+
+    - *Ended up being unnecessary as I utilised free tutorials found online instead of relying on generative AI.*
+
+13. Attempted to host the quarto website on Quarto Pub, but was blocked because of server issues. Instead hosted by uploading files to [Github](https://github.com/ehood3662/ausfashion-project) and publishing using [Posit Connect Cloud](https://connect.posit.cloud/home).
